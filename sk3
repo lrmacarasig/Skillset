@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<frameset cols="*,*">
+<frame src="blue.html" name=left>
+<frameset rows="50%,50%">
+<frame src="orange.html" name=topright>
+<frame src="white.html" name=bottomright>
+</frameset>
+</frameset>
+
+<head>
+	<title> 161 Skillset 3 </title>
+</head>
+<body>
+
+</body>
+</html>
